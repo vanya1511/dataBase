@@ -1,0 +1,7 @@
+1 Maths
+2 English
+3 Phys
+4 Russian
+5 Algebra
+6 Geometria
+7 Obj

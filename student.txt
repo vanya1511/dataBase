@@ -1,0 +1,9 @@
+1 Ivanov Vanya Georg 10A
+2 Petrov Alesha Petro 10B
+3 Sidorov Dmitry Aleks 10B
+4 Repov Pavel Ivanovich 10A
+5 Qwe Qwe Qwe 11D
+6 Qwee Qwee Qwee 10C
+7 Asd Asd Asd 10B
+8 Asdd Asdd Asdd 12A
+9 Qqwe Qqwe Qqwe 1A
