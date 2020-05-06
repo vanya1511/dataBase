@@ -1,10 +1,10 @@
                       Mat  Eng  Phy  Rus  Alg  Geo  Obj
-Ivanov V.G. 10A         1    4    2    2    3    2    3
-Petrov A.P. 10B         2    4    3    3    0    0    0
-Sidorov D.A. 10B        5    4    3    2    0    0    0
-Repov P.I. 10A          5    3    5    5    0    0    0
-Qwe Q.Q. 11D            1    2    3    4    5    4    0
-Qwee Q.Q. 10C           5    2    2    0    0    0    0
-Asd A.A. 10B            2    2    4    5    0    0    0
-Asdd A.A. 12A           3    4    0    0    5    1    0
-Qqwe Q.Q. 1A            0    3    2    1    2    0    0
+Ivanov V.G.             1    4    2    2    3    2    3
+Petrov A.P.             2    4    3    3    0    0    0
+Sidorov D.A.            5    4    3    2    0    0    0
+Repov P.I.              5    3    5    5    0    0    0
+Qwe Q.Q.                1    2    3    4    5    4    0
+Qwee Q.Q.               5    2    2    0    0    0    0
+Asd A.A.                2    2    4    5    0    0    0
+Asdd A.A.               3    4    0    0    5    1    0
+Qqwe Q.Q.               0    3    2    1    2    0    0

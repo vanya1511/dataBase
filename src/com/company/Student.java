@@ -26,7 +26,7 @@ public class Student {
     }
 
     public String getNameForOtput() {
-        return surname + " " + name.substring(0,1) + "."+ thirdName.substring(0,1) + ". " + schClass + parallel;
+        return surname + " " + name.substring(0,1) + "."+ thirdName.substring(0,1) + ". ";
     }
 
     public String getSurname() {
